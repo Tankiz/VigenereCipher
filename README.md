@@ -14,8 +14,11 @@ Menüden:
 seçeneğini girin.
 
 📌 Özellikler
+
   Harf doğrulama
+  
   Menü arayüzü
+  
   Sonuç ekranı ve geri dönüş seçeneği
 
 📄 Not
